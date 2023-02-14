@@ -383,7 +383,7 @@ FodyWeavers.xsd
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
-*.exe
+
 
 # Local History for Visual Studio Code
 .history/
@@ -394,6 +394,7 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+*.exe
 
 # JetBrains Rider
 *.sln.iml
